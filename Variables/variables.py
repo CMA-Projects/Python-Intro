@@ -1,8 +1,4 @@
-w = 3
-x = "Big "
-y = "Green "
-z = "Turtle"
+x = 3
 
-result = w + x + y + z
+print(x)
 
-print(result)
